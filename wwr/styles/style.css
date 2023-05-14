@@ -1,9 +1,9 @@
-.icon {
+.icon, .logo {
 	width: 80px;
 }
 
 #content {
-	width: 1000px;
+	width;
 	max-width: 1600px;
 	margin: 0 auto;
 }
@@ -16,11 +16,8 @@ body {
     background-color: #fbfbfb; 
 }
 
-nav {
-	text-align: center;
-}
-
 nav a {
+	text-align: center;
 	color: #5FA8D3;
 	text-decoration: none;
 }
